@@ -1,4 +1,9 @@
-
+def unsafe?
+  
+  
+  
+  
+end
 
 
 
